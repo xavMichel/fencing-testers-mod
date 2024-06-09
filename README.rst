@@ -1,9 +1,6 @@
-Template for the Read the Docs tutorial
+Modifications of fencing testers
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+This GitHub repository hold the documention related to modifications of fencing testers to add functionalities or improvements.
 
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+https://fencing-testers-mod.readthedocs.io/en/latest/
