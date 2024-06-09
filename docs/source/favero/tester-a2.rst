@@ -5,7 +5,7 @@ The `Favero TESTER-A2 <https://www.favero.com/en2_fencing_sport_electronic_teste
 is an electronic tabletop tester for all three weapons.
 
 Fixed *C* point for testing mask wires
-------------
+-----------------------------------
 
 .. note::
 
