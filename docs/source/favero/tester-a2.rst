@@ -16,6 +16,7 @@ Favero provide a crocodile clip attachment point that you can plug on *C* but it
 If the Favero TESTER-A2 is ordered without the optional italian bayonet socket option, there is space to install a fixed point to clip the crocodile clip on *C*.
 
 The modification kit consist of the following:
+
 - 1 stainless steel M4 × 35mm round head screw;
 - 6 stainless steel M4 serrated lock washers;
 - 1 stainless steel M4 × 8mm × 0,8mm plain washer;
