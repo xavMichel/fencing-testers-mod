@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Fencing Testers Mod'
+copyright = 'Fencing Testers Mod by Xavier MICHEL is marked with CC0 1.0'
+author = 'Xavier MICHEL'
 
 release = '0.1'
 version = '0.1.0'
